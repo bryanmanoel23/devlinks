@@ -12,5 +12,5 @@ function test() {
 }
 
 function inacabado() {
-    alert('Este site está em desenvolimento, novidades em breve !')
+    alert('Este site está em desenvolvimento, novidades em breve !')
 }
