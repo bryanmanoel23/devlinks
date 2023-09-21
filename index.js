@@ -11,6 +11,6 @@ function test() {
     }
 }
 
-function inacabado() {
-    alert('Este site está em desenvolvimento, novidades em breve !')
+function chamaalert() {
+    alert("Se estiver conectado em dispositivo mobile (celular), para uma melhor experiência vire a tela ! (modo paisagem)")
 }
