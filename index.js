@@ -11,6 +11,3 @@ function test() {
     }
 }
 
-function chamaalert() {
-    alert("Se estiver conectado em dispositivo mobile (celular), para uma melhor experiência vire a tela ! (modo paisagem)")
-}
